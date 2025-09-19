@@ -1,1 +1,8 @@
-
+{
+  "GlutenfreierKeks": {
+    "password": "1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c:9e8f7d6c5b4a3f2e1d0c9b8a7f6e5d4c",
+    "perms": {
+      "glutenium": true
+    }
+  }
+}
