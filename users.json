@@ -19,5 +19,12 @@
     "perms": {
       "glutenium": true
     }
+  },
+  "Realjus": {
+    "password": "98ec0238d4eeaa1fc8d1fbf87ab8abd0:e7ba8fe4dada902683b0c6cdf788728b096100720b1c0062d5a19e9803618d99",
+    "IGN": "Realjus",
+    "perms": {
+      "glutenium": false
+    }
   }
 }
