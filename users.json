@@ -1,12 +1,13 @@
 {
   "GlutenfreierKeks": {
     "password": "c82d0832d87d6846868b77703db727be:05a9659928ba967aa2e66129b327db657a3fe36a4e510b0d7223289ad0a68419",
-    "IGN": "GlutenfreierKeks"
+    "IGN": "GlutenfreierKeks",
     "perms": {
       "glutenium": true
     }
     "noksu": {
     "password": "6b19cf25efbdcbbb62344c205bfd438e:ca848c1e547e4697c6460202495cb49ae8ac45f971f018c482161c347ba30fb3",
+    "IGN": "NoksuKBP",
     "perms": {
       "glutenium": true
     }
