@@ -1,0 +1,10 @@
+{
+  "blocked_servers": [
+    "hypixel.net",
+    "mc.hypixel.net",
+    "mineplex.com",
+    "cubecraft.net",
+    "2b2t.org"
+  ],
+  "message": "§c§l[{module}] §r§7is on §e{server}§7? §cNOT ALLOWED"
+}
