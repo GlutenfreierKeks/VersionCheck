@@ -1,10 +1,15 @@
 {
   "blocked_servers": [
     "hypixel.net",
-    "mc.hypixel.net",
-    "mineplex.com",
-    "cubecraft.net",
-    "2b2t.org"
+    "mineplex.com"
   ],
-  "message": "§c§l[{module}] §r§7is on §e{server}§7? §cNOT ALLOWED"
+  "module_blocks": {
+    "AutoTpahere": [
+      "slowfiz.net"
+    ],
+    "AutoStaffAFK": [
+      "slowfiz.net"
+    ]
+  },
+  "message": "§c[{module}] §7This Module is on §c{server} §7NOT allowed!"
 }
